@@ -372,16 +372,6 @@ Chaque problème important doit être accompagné d’une preuve ou d’une obse
 
 ---
 
-## 9. Présentation orale — 1,5 point
-
-| Critère                            | Points |
-| ---------------------------------- | -----: |
-| Présentation claire et synthétique |    0,5 |
-| Problèmes majeurs bien expliqués   |    0,5 |
-| Recommandations bien défendues     |    0,5 |
-
----
-
 # Bonus — jusqu’à +2 points
 
 Des points bonus peuvent être accordés si vous réalisez :
